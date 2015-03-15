@@ -1,0 +1,121 @@
+{
+  "kind": "gerritcodereview#group",
+  "url": "#/admin/groups/uuid-9b227d5d1b27471dacbe9a9161904ec115a74138",
+  "options": {
+    "visible_to_all": true
+  },
+  "description": "Neutron Core Developers",
+  "group_id": 38,
+  "owner": "neutron-core",
+  "owner_id": "9b227d5d1b27471dacbe9a9161904ec115a74138",
+  "members": [
+    {
+      "_account_id": 4395,
+      "name": "Aaron Rosen",
+      "email": "aaronorosen@gmail.com",
+      "username": "arosen",
+      "avatars": []
+    },
+    {
+      "_account_id": 841,
+      "name": "Akihiro Motoki",
+      "email": "amotoki@gmail.com",
+      "username": "amotoki",
+      "avatars": []
+    },
+    {
+      "_account_id": 748,
+      "name": "Armando Migliaccio",
+      "email": "armamig@gmail.com",
+      "username": "armando-migliaccio",
+      "avatars": []
+    },
+    {
+      "_account_id": 7448,
+      "name": "Carl Baldwin",
+      "email": "carl@ecbaldwin.net",
+      "username": "carl-baldwin",
+      "avatars": []
+    },
+    {
+      "_account_id": 10980,
+      "name": "Doug Wiegley",
+      "email": "dougwig@parkside.io",
+      "username": "dougw",
+      "avatars": []
+    },
+    {
+      "_account_id": 704,
+      "name": "Edgar Magana",
+      "email": "emagana@gmail.com",
+      "username": "emagana",
+      "avatars": []
+    },
+    {
+      "_account_id": 6524,
+      "name": "Henry Gessau",
+      "email": "gessau@cisco.com",
+      "username": "gessau",
+      "avatars": []
+    },
+    {
+      "_account_id": 9656,
+      "name": "Ihar Hrachyshka",
+      "email": "ihrachys@redhat.com",
+      "username": "ihrachys",
+      "avatars": []
+    },
+    {
+      "_account_id": 7787,
+      "name": "Kevin Benton",
+      "email": "kevinbenton@buttewifi.com",
+      "username": "blak111",
+      "avatars": []
+    },
+    {
+      "_account_id": 105,
+      "name": "Kyle Mestery",
+      "email": "mestery@mestery.com",
+      "username": "mestery",
+      "avatars": []
+    },
+    {
+      "_account_id": 2035,
+      "name": "Maru Newby",
+      "email": "marun@redhat.com",
+      "username": "maru",
+      "avatars": []
+    },
+    {
+      "_account_id": 5948,
+      "name": "Oleg Bondarev",
+      "email": "obondarev@mirantis.com",
+      "username": "obondarev",
+      "avatars": []
+    },
+    {
+      "_account_id": 261,
+      "name": "Salvatore Orlando",
+      "email": "salv.orlando@gmail.com",
+      "username": "salvatore-orlando",
+      "avatars": []
+    },
+    {
+      "_account_id": 1653,
+      "name": "garyk",
+      "email": "gkotton@vmware.com",
+      "username": "garyk",
+      "avatars": []
+    },
+    {
+      "_account_id": 2592,
+      "name": "mark mcclain",
+      "email": "mark@mcclain.xyz",
+      "username": "markmcclain",
+      "avatars": []
+    }
+  ],
+  "includes": [],
+  "id": "9b227d5d1b27471dacbe9a9161904ec115a74138",
+  "name": "neutron-core"
+}

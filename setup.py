@@ -11,4 +11,5 @@ setup(
     author_email="gareth@openstacker.org",
     packages=['stackbook'],
     scripts=['bin/stackbook'],
+    data_files=[('/etc/stackbook/',['data/neutron.json'])],
 )

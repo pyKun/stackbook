@@ -10,4 +10,5 @@ setup(
     author="Kun Huang",
     author_email="gareth@openstacker.org",
     packages=['stackbook'],
+    scripts=['bin/stackbook'],
 )
